@@ -1,0 +1,13 @@
+<Resources>
+    <EX>
+        <!--EX1 ENV -->
+        <EX1 name="URL" value="https://tutorialsninja.com/demo/"/>
+        <EX1 name="SEARCH_XPATH" value="//input[@name='search']"/>
+        <EX1 name="SEARCH_TEXT" value="iPod"/>
+        <EX1 name="SEARCH_BUTTON" value=".btn.btn-default.btn-lg"/>
+        <EX1 name="LIST_VIEW_XPATH" value="//button[@id='list-view']"/>
+        <EX1 name="GRID_VIEW_XPATH" value="//button[@id='grid-view']"/>
+        <EX1 name="SORT_BY_DROPDOWN" value="#input-sort"/>
+        <EX1 name="PRODUCT_NAMES_CSS" value=".caption h4 a"/>
+    </EX>
+</Resources>
